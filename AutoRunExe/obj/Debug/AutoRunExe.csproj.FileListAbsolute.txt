@@ -1,0 +1,12 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\AutoRunExe\AutoRunExe\bin\Debug\AutoRunExe.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\AutoRunExe\AutoRunExe\bin\Debug\AutoRunExe.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\AutoRunExe\AutoRunExe\obj\Debug\AutoRunExe.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\AutoRunExe\AutoRunExe\obj\Debug\AutoRunExe.MainFm.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\AutoRunExe\AutoRunExe\obj\Debug\AutoRunExe.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\AutoRunExe\AutoRunExe\obj\Debug\AutoRunExe.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2013\Projects\AutoRunExe\AutoRunExe\obj\Debug\AutoRunExe.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\AutoRunExe\AutoRunExe\obj\Debug\AutoRunExe.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\AutoRunExe\AutoRunExe\bin\Debug\AutoRunExe.exe.manifest
+c:\users\lenovo\documents\visual studio 2013\Projects\AutoRunExe\AutoRunExe\bin\Debug\AutoRunExe.application
+c:\users\lenovo\documents\visual studio 2013\Projects\AutoRunExe\AutoRunExe\obj\Debug\AutoRunExe.exe.manifest
+c:\users\lenovo\documents\visual studio 2013\Projects\AutoRunExe\AutoRunExe\obj\Debug\AutoRunExe.application
